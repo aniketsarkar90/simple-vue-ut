@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`HelloWorld.vue renders props.msg when passed 1`] = `
+"new message 
+    For a guide and recipes on how to configure / customize this project,
+    check out the
+    vue-cli documentation.
+   Installed CLI Plugins babel eslint unit-jest Essential Links Core Docs Forum Community Chat Twitter News Ecosystem vue-router vuex vue-devtools vue-loader awesome-vue"
+`;

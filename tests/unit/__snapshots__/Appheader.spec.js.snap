@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Mounted AppHeader refresh button 1`] = `"REFRESHED"`;
+
+exports[`Mounted AppHeader test addition, failure 1`] = `"TRY AGAIN"`;
+
+exports[`Mounted AppHeader test addition, success 1`] = `"SUCCESS!"`;
